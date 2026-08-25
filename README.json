@@ -370,10 +370,10 @@
                 "archived": false,
                 "id": 75821432,
                 "language": "LLVM",
-                "last_commit": "2026-08-25T04:47:21Z",
+                "last_commit": "2026-08-25T06:17:14Z",
                 "owner": "llvm",
                 "repo": "llvm-project",
-                "stars": 39916
+                "stars": 39917
               }
             }
           ],
@@ -450,7 +450,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-25T04:20:49Z",
+                "last_commit": "2026-08-25T06:29:14Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -468,7 +468,7 @@
                 "last_commit": "2026-08-25T01:20:49Z",
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27392
+                "stars": 27391
               }
             },
             {
@@ -599,7 +599,7 @@
             "last_commit": "2026-08-24T20:56:12Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6140
+            "stars": 6141
           }
         },
         {
@@ -649,7 +649,7 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:39:56Z",
+                "last_commit": "2026-08-25T06:02:21Z",
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11127
@@ -900,7 +900,7 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:39:56Z",
+                "last_commit": "2026-08-25T06:02:21Z",
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11127
@@ -1093,7 +1093,7 @@
                 "archived": false,
                 "id": 3659275,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:39:56Z",
+                "last_commit": "2026-08-25T06:02:21Z",
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11127
@@ -1279,7 +1279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:56:20.511Z",
+    "last_updated": "2026-08-25T06:31:58.268Z",
     "original_repository": "mikeroyal/AMX-Guide",
     "original_repository_id": 437671069,
     "original_repository_sha": "22b0c99389676045d29fd7fdc6bc68021235423c",
