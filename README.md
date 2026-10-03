@@ -136,7 +136,7 @@
 
 [Icestudio](https://icestudio.io/) is a visual editor for open FPGA boards. Built on top of the Icestorm project using Apio.
 
-[FuseSoC](https://github.com/olofk/fusesoc) ⭐ 1,468 | 🐛 155 | 🌐 Python | 📅 2026-09-25 is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code and FPGA/ASIC development.
+[FuseSoC](https://github.com/olofk/fusesoc) ⭐ 1,469 | 🐛 155 | 🌐 Python | 📅 2026-09-25 is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code and FPGA/ASIC development.
 
 [OpenWiFi](https://github.com/open-sdr/openwifi) ⭐ 4,829 | 🐛 98 | 🌐 C | 📅 2026-09-21 is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
 
@@ -161,7 +161,7 @@
 [Chipyard](https://chipyard.readthedocs.io/en/latest/) is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other [Berkeley](https://berkeley.edu/) projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.
 
 [The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) ⭐ 559 | 🐛 106 | 🌐 C | 📅 2026-09-09 is a collection of plug-ins for Arm & RISC-V C/C++ developers.
-[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,396 | 🐛 228 | 🌐 C | 📅 2026-08-28 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+[Unicorn](https://github.com/unicorn-engine/unicorn) ⭐ 9,397 | 🐛 228 | 🌐 C | 📅 2026-08-28 is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
 
 [Keystone](https://github.com/keystone-engine/keystone) ⭐ 2,640 | 🐛 244 | 🌐 C++ | 📅 2026-07-18 is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
 
@@ -186,7 +186,7 @@
 
 [Clang](https://clang.llvm.org/) is a language front-end and tooling infrastructure for languages in the C language family (C, C++, Objective C/C++, OpenCL, CUDA, and RenderScript) for the LLVM project.
 
-[LLVM Project GitHub](https://github.com/llvm/llvm-project//) ⭐ 40,895 | 🐛 39,932 | 🌐 LLVM | 📅 2026-10-03
+[LLVM Project GitHub](https://github.com/llvm/llvm-project//) ⭐ 40,903 | 🐛 39,934 | 🌐 LLVM | 📅 2026-10-03
 
 [LLVM Documentation](https://llvm.org/docs/index.html)
 
@@ -311,7 +311,7 @@
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,353 | 🐛 246 | 🌐 CSS | 📅 2026-10-01
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,354 | 🐛 246 | 🌐 CSS | 📅 2026-10-01
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -357,17 +357,17 @@
 
 [AWS SDK for C++](https://aws.amazon.com/sdk-for-cpp/)
 
-[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 206 | 🐛 156 | 🌐 C++ | 📅 2026-10-02
+[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 206 | 🐛 157 | 🌐 C++ | 📅 2026-10-03
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 658 | 🐛 203 | 🌐 C++ | 📅 2026-10-03
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 659 | 🐛 203 | 🌐 C++ | 📅 2026-10-03
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,513 | 🐛 1,092 | 🌐 CMake | 📅 2026-10-03 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,512 | 🐛 1,083 | 🌐 CMake | 📅 2026-10-03 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -806,7 +806,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,278 | 🐛 243 | 🌐 Rust | 📅 2026-10-02 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,279 | 🐛 242 | 🌐 Rust | 📅 2026-10-03 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -887,7 +887,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Numba](https://github.com/numba/numba) ⭐ 11,169 | 🐛 1,820 | 🌐 Python | 📅 2026-10-02 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,351 | 🐛 686 | 🌐 Python | 📅 2026-10-02 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,352 | 🐛 690 | 🌐 Python | 📅 2026-10-02 for high performance training and inference.
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
@@ -986,7 +986,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [OpenCL ICD Loader](https://github.com/KhronosGroup/OpenCL-ICD-Loader) ⭐ 305 | 🐛 57 | 🌐 C | 📅 2026-09-22 is an Installable Client Driver (ICD) mechanism to allow developers to build applications against an Installable Client Driver loader (ICD loader) rather than linking their applications against a specific OpenCL implementation.
 
-[clBLAS](https://github.com/clMathLibraries/clBLAS) ⭐ 866 | 🐛 98 | 🌐 C++ | 📅 2024-08-02 is a software library containing BLAS functions written in OpenCL.
+[clBLAS](https://github.com/clMathLibraries/clBLAS) ⭐ 865 | 🐛 98 | 🌐 C++ | 📅 2024-08-02 is a software library containing BLAS functions written in OpenCL.
 
 [clFFT](https://github.com/clMathLibraries/clFFT) ⭐ 650 | 🐛 44 | 🌐 C++ | 📅 2022-10-05 is a software library containing FFT functions written in OpenCL.
 
@@ -1074,7 +1074,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Numba](https://github.com/numba/numba) ⭐ 11,169 | 🐛 1,820 | 🌐 Python | 📅 2026-10-02 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,351 | 🐛 686 | 🌐 Python | 📅 2026-10-02 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,352 | 🐛 690 | 🌐 Python | 📅 2026-10-02 for high performance training and inference.
 
 [CuPy](https://cupy.dev/) is an implementation of NumPy-compatible multi-dimensional array on CUDA. CuPy consists of the core multi-dimensional array class, cupy.ndarray, and many functions on it. It supports a subset of numpy.ndarray interface.
 
@@ -1286,7 +1286,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Numba](https://github.com/numba/numba) ⭐ 11,169 | 🐛 1,820 | 🌐 Python | 📅 2026-10-02 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,351 | 🐛 686 | 🌐 Python | 📅 2026-10-02 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,352 | 🐛 690 | 🌐 Python | 📅 2026-10-02 for high performance training and inference.
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
@@ -1455,7 +1455,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Microsoft AirSim](https://microsoft.github.io/AirSim/lidar.html) is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports [software-in-the-loop simulation](https://www.mathworks.com/help///ecoder/software-in-the-loop-sil-simulation.html) with popular flight controllers such as PX4 & ArduPilot and [hardware-in-loop](https://www.ni.com/en-us/innovations/white-papers/17/what-is-hardware-in-the-loop-.html) with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed  as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,453 | 🐛 1,192 | 🌐 C++ | 📅 2026-10-03 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,452 | 🐛 1,192 | 🌐 C++ | 📅 2026-10-03 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
 
 [ROS/ROS2 bridge for CARLA(package)](https://github.com/carla-simulator/ros-bridge) ⭐ 646 | 🐛 186 | 🌐 Python | 📅 2026-08-16 is a bridge that enables two-way communication between ROS and CARLA. The information from the CARLA server is translated to ROS topics. In the same way, the messages sent between nodes in ROS get translated to commands to be applied in CARLA.
 
