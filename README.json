@@ -45,8 +45,8 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T04:22:46Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-04T04:52:25Z",
+                "open_issues": 34,
                 "owner": "FPGAwars",
                 "repo": "apio",
                 "stars": 1011,
@@ -304,7 +304,7 @@
                 "open_issues": 165,
                 "owner": "uxmal",
                 "repo": "reko",
-                "stars": 2607,
+                "stars": 2608,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -348,11 +348,11 @@
                 "id": 75821432,
                 "language": "LLVM",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T09:37:39Z",
-                "open_issues": 39934,
+                "last_commit": "2026-10-04T10:11:45Z",
+                "open_issues": 39999,
                 "owner": "llvm",
                 "repo": "llvm-project",
-                "stars": 40903,
+                "stars": 40913,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:17.611Z"
@@ -386,7 +386,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45354,
+                "stars": 45353,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:17.611Z"
@@ -410,7 +410,7 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-03T05:50:22Z",
+                "last_commit": "2026-10-04T09:08:10Z",
                 "open_issues": 157,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
@@ -464,7 +464,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T08:44:48Z",
+                "last_commit": "2026-10-04T08:47:36Z",
                 "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -500,11 +500,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-03T09:24:26Z",
-                "open_issues": 1083,
+                "last_commit": "2026-10-04T10:19:46Z",
+                "open_issues": 1084,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27512,
+                "stars": 27515,
                 "topics": [
                   "c",
                   "cmake",
@@ -642,10 +642,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T18:58:12Z",
-                "open_issues": 54,
+                "open_issues": 52,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29650,
+                "stars": 29653,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -680,10 +680,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-04T16:57:01Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3265,
+            "stars": 3267,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:17.611Z"
@@ -704,7 +704,7 @@
             "open_issues": 53,
             "owner": "moby",
             "repo": "hyperkit",
-            "stars": 3711,
+            "stars": 3712,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:17.611Z"
@@ -742,11 +742,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-03T09:44:30Z",
+            "last_commit": "2026-10-04T10:21:11Z",
             "open_issues": 242,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6279,
+            "stars": 6285,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -793,7 +793,7 @@
             "open_issues": 334,
             "owner": "ganeti",
             "repo": "ganeti",
-            "stars": 586,
+            "stars": 587,
             "topics": [
               "haskell",
               "kvm",
@@ -826,10 +826,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-02T18:16:02Z",
-                "open_issues": 1820,
+                "open_issues": 1823,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11169,
+                "stars": 11170,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -858,7 +858,7 @@
                 "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5296,
+                "stars": 5298,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -885,7 +885,7 @@
                 "open_issues": 522,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11921,
+                "stars": 11920,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -1136,10 +1136,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T08:49:11Z",
-                "open_issues": 776,
+                "open_issues": 777,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10519,
+                "stars": 10521,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -1224,10 +1224,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-02T18:16:02Z",
-                "open_issues": 1820,
+                "open_issues": 1823,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11169,
+                "stars": 11170,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1256,7 +1256,7 @@
                 "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5296,
+                "stars": 5298,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -1402,7 +1402,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34550,
+                "stars": 34551,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1427,7 +1427,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10007,
+                "stars": 10008,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:17.611Z"
@@ -1482,7 +1482,7 @@
                 "open_issues": 62,
                 "owner": "microsoft",
                 "repo": "sql-spark-connector",
-                "stars": 287,
+                "stars": 288,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:17.611Z"
@@ -1503,7 +1503,7 @@
                 "open_issues": 522,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11921,
+                "stars": 11920,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -1547,10 +1547,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-02T18:16:02Z",
-                "open_issues": 1820,
+                "open_issues": 1823,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11169,
+                "stars": 11170,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1579,7 +1579,7 @@
                 "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5296,
+                "stars": 5298,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -1619,7 +1619,7 @@
                 "open_issues": 62,
                 "owner": "microsoft",
                 "repo": "sql-spark-connector",
-                "stars": 287,
+                "stars": 288,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:17.611Z"
@@ -1640,7 +1640,7 @@
                 "open_issues": 522,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11921,
+                "stars": 11920,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -1708,7 +1708,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34550,
+                "stars": 34551,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1733,7 +1733,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10007,
+                "stars": 10008,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:17.611Z"
@@ -1750,11 +1750,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:24:39Z",
-                "open_issues": 1192,
+                "last_commit": "2026-10-04T08:58:45Z",
+                "open_issues": 1194,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14452,
+                "stars": 14456,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:53:42.897Z",
+    "last_updated": "2026-10-04T10:36:27.607Z",
     "original_repository_info": {
       "archived": false,
       "description": " Advanced Matrix Extensions (AMX) Guide",
