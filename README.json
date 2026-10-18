@@ -45,8 +45,8 @@
                 "id": 51361989,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T03:29:22Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-18T03:36:30Z",
+                "open_issues": 24,
                 "owner": "FPGAwars",
                 "repo": "apio",
                 "stars": 1016,
@@ -76,8 +76,8 @@
                 "id": 39295557,
                 "language": "Python",
                 "license": "ISC",
-                "last_commit": "2026-10-05T13:05:29Z",
-                "open_issues": 71,
+                "last_commit": "2026-10-18T05:17:11Z",
+                "open_issues": 70,
                 "owner": "YosysHQ",
                 "repo": "icestorm",
                 "stars": 1192,
@@ -126,11 +126,11 @@
                 "id": 220449772,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-21T07:04:19Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-17T13:56:44Z",
+                "open_issues": 98,
                 "owner": "open-sdr",
                 "repo": "openwifi",
-                "stars": 4842,
+                "stars": 4843,
                 "topics": [
                   "802-11",
                   "ad9361",
@@ -269,7 +269,7 @@
                 "open_issues": 244,
                 "owner": "keystone-engine",
                 "repo": "keystone",
-                "stars": 2650,
+                "stars": 2649,
                 "topics": [
                   "arm",
                   "arm64",
@@ -348,11 +348,11 @@
                 "id": 75821432,
                 "language": "LLVM",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T08:34:56Z",
-                "open_issues": 40645,
+                "last_commit": "2026-10-18T08:43:00Z",
+                "open_issues": 40714,
                 "owner": "llvm",
                 "repo": "llvm-project",
-                "stars": 41091,
+                "stars": 41099,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:17.611Z"
@@ -386,7 +386,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45383,
+                "stars": 45388,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:17.611Z"
@@ -411,7 +411,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-17T05:22:29Z",
-                "open_issues": 154,
+                "open_issues": 155,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
                 "stars": 206,
@@ -464,7 +464,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T01:58:28Z",
+                "last_commit": "2026-10-18T07:41:53Z",
                 "open_issues": 198,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -500,11 +500,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-17T04:01:39Z",
-                "open_issues": 1099,
+                "last_commit": "2026-10-17T15:40:35Z",
+                "open_issues": 1105,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27523,
+                "stars": 27526,
                 "topics": [
                   "c",
                   "cmake",
@@ -536,7 +536,7 @@
                 "open_issues": 346,
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3402,
+                "stars": 3404,
                 "topics": [
                   "bindings",
                   "bridge",
@@ -577,7 +577,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 4999,
+                "stars": 4998,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -642,10 +642,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T07:09:59Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29698,
+                "stars": 29700,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -683,7 +683,7 @@
             "open_issues": 169,
             "owner": "virt-manager",
             "repo": "virt-manager",
-            "stars": 3278,
+            "stars": 3282,
             "topics": []
           },
           "first_seen": "2026-08-28T16:41:17.611Z"
@@ -742,11 +742,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-17T02:10:23Z",
-            "open_issues": 234,
+            "last_commit": "2026-10-17T13:23:31Z",
+            "open_issues": 232,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6384,
+            "stars": 6386,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -829,7 +829,7 @@
                 "open_issues": 1823,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11180,
+                "stars": 11181,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -858,7 +858,7 @@
                 "open_issues": 805,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5305,
+                "stars": 5306,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -966,7 +966,7 @@
                 "open_issues": 44,
                 "owner": "clMathLibraries",
                 "repo": "clFFT",
-                "stars": 650,
+                "stars": 651,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:17.611Z"
@@ -1074,7 +1074,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17600,
+                "stars": 17599,
                 "topics": [
                   "cuda",
                   "docker",
@@ -1113,7 +1113,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17600,
+                "stars": 17599,
                 "topics": [
                   "cuda",
                   "docker",
@@ -1136,10 +1136,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-15T01:12:50Z",
-                "open_issues": 794,
+                "open_issues": 791,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10609,
+                "stars": 10617,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -1227,7 +1227,7 @@
                 "open_issues": 1823,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11180,
+                "stars": 11181,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1256,7 +1256,7 @@
                 "open_issues": 805,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5305,
+                "stars": 5306,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -1283,7 +1283,7 @@
                 "open_issues": 8,
                 "owner": "NVIDIA",
                 "repo": "thrust",
-                "stars": 4999,
+                "stars": 4998,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -1402,7 +1402,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34555,
+                "stars": 34557,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1550,7 +1550,7 @@
                 "open_issues": 1823,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11180,
+                "stars": 11181,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1579,7 +1579,7 @@
                 "open_issues": 805,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5305,
+                "stars": 5306,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -1708,7 +1708,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34555,
+                "stars": 34557,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1750,11 +1750,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-16T14:17:42Z",
-                "open_issues": 1206,
+                "last_commit": "2026-10-17T18:23:54Z",
+                "open_issues": 1207,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14502,
+                "stars": 14505,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:36:38.193Z",
+    "last_updated": "2026-10-18T08:53:02.351Z",
     "original_repository_info": {
       "archived": false,
       "description": " Advanced Matrix Extensions (AMX) Guide",
